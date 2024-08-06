@@ -17,11 +17,8 @@ func main() {
 
 	fmt.Println(xPtr) // x is 1
 	service.UtcToLocal()
-	fmt.Printf(" ")
 	service.DateTime()
-	fmt.Printf(" ")
 	service.AutTime()
-	fmt.Printf(" ")
 
 }
 
